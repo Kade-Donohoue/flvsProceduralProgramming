@@ -1,0 +1,1 @@
+This repo contains assignments from FLVS procedural programming course. Everything is done in python 3.10.11. 
